@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "18169219287",
+    "project_id": "ridecell-be6a9",
+    "storage_bucket": "ridecell-be6a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18169219287:android:1e61f7930d1fd0051b4892",
+        "android_client_info": {
+          "package_name": "com.example.testapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18169219287-v8s6mvbn59ba45vlg1udunokg02h7s01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testapplication",
+            "certificate_hash": "d22a9b6b097e3cb6149f432344fbe7bdfb12a6c8"
+          }
+        },
+        {
+          "client_id": "18169219287-f9v9du1rt3mkn7tar58ncum2slh9aq14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIh2JN-Em_7PONj2o-V-2Hq0eDo-uqFqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18169219287-f9v9du1rt3mkn7tar58ncum2slh9aq14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
